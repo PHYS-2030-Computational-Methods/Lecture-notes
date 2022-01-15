@@ -18,3 +18,5 @@ Table of contents (Lessons):
 1. Normal distributions
 2. Monte Carlo sampling
 3. Sampling from arbitrary distributions
+4. Monte Carlo integration
+5. Markov Chain Monte Carlo
