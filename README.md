@@ -4,7 +4,7 @@ This repository contains lecture notes for the course:
 
 Computational Methods for Physicists and Engineers 
 PHYS 2030
-Winter 2022
+Winter 2024
 York University
 
 Course instructor: Sean Tulin
